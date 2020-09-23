@@ -1,0 +1,4 @@
+#Sun May 12 21:36:24 IST 2019
+base.0=C\:\\Users\\Peter\\AndroidStudioProjects\\SEEB_music_player\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

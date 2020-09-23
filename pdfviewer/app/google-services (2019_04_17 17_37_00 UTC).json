@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534817416709",
+    "firebase_url": "https://pro2-aac12.firebaseio.com",
+    "project_id": "pro2-aac12",
+    "storage_bucket": "pro2-aac12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534817416709:android:cd28095f417ff87d",
+        "android_client_info": {
+          "package_name": "com.example.peter.pdfviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534817416709-ac14gqlmra4rfsckqok7h195amsbmskk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peter.pdfviewer",
+            "certificate_hash": "f94a8fb07e8c983632ea4a19a683b9e79fd70887"
+          }
+        },
+        {
+          "client_id": "534817416709-obc2b0bbb6ue457cdccskuk3bea95b6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWPhlN0YwvZbTqe1aHYIiEYaXT8Ux8gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534817416709-obc2b0bbb6ue457cdccskuk3bea95b6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

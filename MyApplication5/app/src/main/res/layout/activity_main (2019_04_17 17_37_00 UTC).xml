@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#f0f">
+
+
+    <fragment
+        android:id="@+id/fragment"
+        android:name="com.example.peter.myapplication.TopSectionFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="215dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="41dp"
+        tools:layout="@layout/fragment_top_section"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="81dp" />
+
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.example.peter.myapplication.BottomSectionFragment"
+        android:layout_width="360dp"
+        android:layout_height="216dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="43dp"
+        tools:layout="@layout/fragment_bottom_section"
+        tools:layout_editor_absoluteX="182dp"
+        tools:layout_editor_absoluteY="480dp" />
+
+</RelativeLayout>

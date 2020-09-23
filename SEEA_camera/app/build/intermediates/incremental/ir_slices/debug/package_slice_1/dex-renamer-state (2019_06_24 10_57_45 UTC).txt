@@ -1,0 +1,4 @@
+#Mon May 13 17:20:14 IST 2019
+base.0=C\:\\Users\\Peter\\AndroidStudioProjects\\SEEA_camera\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
